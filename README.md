@@ -4,7 +4,7 @@ ChatrPlanr is a web app that integrates a group calendar to chat, schedule and v
 Made with React.js, HTML, CSS and leveraged the FullCalendar and Getstream SDK to aid with calendar and chat integration.
 
 # How to run the project locally
-clone the repo using `git clone https://github.com/Surya123234/Where-Am-I.git` 
+clone the repo using `git clone https://github.com/Surya123234/ChatrPlanr.git` 
 
 open up the command line and `cd` into the project directory
 
